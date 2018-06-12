@@ -6,7 +6,7 @@ README
 ***
 
 # 注意事项
-1.base模块的pom文件不能有<build>属性。<br>
+1.base模块的pom文件不能有`build`属性。<br>
 2.服务a，服务b要引入基础模块<br>
 ```Java
 <dependency>
